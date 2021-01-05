@@ -1,0 +1,62 @@
+body{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+.wildlife{
+    font-size: 40px;
+}
+#intro{
+    width: 40%;
+    margin: 10%;
+    color: black;
+}
+.wildlife{
+background-image: url("images/top-bg.png");
+background-repeat: no-repeat;
+overflow: hidden;
+height: 1110px;
+}
+.under-bg{
+    margin: 0px 300px;
+    box-shadow: 0px 2px gray;
+    background-color: white;
+}
+.button{
+    text-decoration: none;
+    margin: 0px 220px;
+    float: left;
+    border-radius: 2px;
+    color: white;
+    font-weight: 800;
+    background-color:dodgerblue;
+    box-shadow: 0px 2px gray;
+}
+.paragraph{
+    margin: 0px 300px;
+}
+.headline{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+}
+.image{
+    float: left;
+    margin: 0px 20px 0px 290px;
+}
+.full-image{
+    margin-left: 290px;
+    margin-bottom: 20px;
+}
+.document{
+    margin: 20px 300px;
+    text-decoration: none;
+}
+.under-pic-link{
+    margin-left: 300px;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+    margin-top: 20px;
+}
